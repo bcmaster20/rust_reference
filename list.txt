@@ -8,5 +8,5 @@ https://github.com/ghmagazine/rustbook
 https://github.com/ProgrammingRust/async-chat
 
 
-04_rustbook-example1
+04_rustbook-example1(medium)
 https://github.com/forcia/rustbook
