@@ -10,3 +10,6 @@ https://github.com/ProgrammingRust/async-chat
 
 04_rustbook-example1(medium)
 https://github.com/forcia/rustbook
+
+05_hwrustbrain-code(medium)
+https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/
